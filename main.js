@@ -1,3 +1,10 @@
+//Name: Ashar Asad
+//Date:2024-04-15
+//File:javascript File
+//Description:In this file we are creating funtionality for the website to be active and running componets
+
+
+
 // functionality for showing/hiding the comments section
 
 const showHideBtn = document.querySelector('.show-hide');
@@ -33,8 +40,4 @@ function submitComment() {
   const listItem = document.createElement('li');
   const namePara = document.createElement('p');
   const commentPara = document.createElement('p');
-  const nameValue = nameField.value;
-  const commentValue = commentField.value;
-
-  namePara.textContent = nameValue;
-  commentPara.textContent = comment}
+  const nameValue = name}
